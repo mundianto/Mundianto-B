@@ -1,2 +1,3 @@
-# Mundianto-B
-B.termux
+
+https://github.com/cli/cli#installation
+releases page
